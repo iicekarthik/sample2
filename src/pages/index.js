@@ -18,6 +18,7 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start p-6">
 
         <Componentpage />
+        <h1>new branch</h1>
 
       </main>
  
